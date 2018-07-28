@@ -4,6 +4,8 @@
   "description": "Configuring Continuous Deployment Pipelines for Web Apps",
   "main": "index.js",
   "scripts": {
+    "start": "npm run server",
+   "server": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

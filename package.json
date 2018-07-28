@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run server",
-   "server": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+   "server": "node index.js"  },
   "keywords": [
     "Node.js",
     "Express",
